@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\lywnt\desktop\a051724_hw3\hw3_a051724\glsl_hw3\hw3\main.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\lywnt\desktop\a051724_hw3\hw3_a051724\glsl_hw3\hw3\main.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\lywnt\desktop\a051724_hw3\hw3_a051724\glsl_hw3\hw3\main.cpp(170): warning C4018: '<': signed/unsigned mismatch
+  hw3.vcxproj -> C:\Users\lywnt\Desktop\A051724_hw3\HW3_A051724\GLSL_hw3\Debug\Hw3.exe
+  hw3.vcxproj -> C:\Users\lywnt\Desktop\A051724_hw3\HW3_A051724\GLSL_hw3\Debug\Hw3.pdb (Partial PDB)
